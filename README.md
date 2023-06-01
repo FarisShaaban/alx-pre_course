@@ -1,1 +1,2 @@
-My first readme
+My first README.md
+README.md is updated 
